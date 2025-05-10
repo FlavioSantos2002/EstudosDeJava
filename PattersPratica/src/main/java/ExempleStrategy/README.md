@@ -6,7 +6,7 @@ A solução proposta pelo padrão consiste em **delegar a execução do algoritm
 
 ## 📌 Exemplo
 
-![Strategy Diagram](./PATTER STRATEGY.png)
+![Strategy Diagram](./PATTER_STRATEGY.png)
 
 ---
 
