@@ -4,7 +4,7 @@ DesignPattersWithJava/target/
 !**/src/test/**/target/
 
 .idea/
-.cls
+cls
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
